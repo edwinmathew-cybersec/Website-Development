@@ -2,14 +2,15 @@
 
 ## Objective
 
-The objective of this lab was to create an environment where I could examine PCAPs with malicious traffic. A Windows 10 virtual machine instance was created, and Wireshark was installed on the host. A malicious PCAP was downloaded and analyzed, simulating a real-world scenario. This hands-on lab gave me a deep understanding of Threat detection, threat hunting, and incident response.
+The objective of this project was to design and develop a website from scratch, tailored for an organization specializing in pet care, particularly dog walking services. Key functionalities including service descriptions, appointment scheduling, and client engagement features were integrated seamlessly into the website. Through this project, I gained practical experience in understanding client expectations, translating requirements into actionable design elements, and implementing customized solutions within the WordPress environment, all while addressing the unique demands of a pet care business.
 
 ## Skills Learned
 
-- Security and Maintenance.
-- Time Management and Prioritization
-- Debugging and Troubleshooting
-- Teamwork and Cooperation
+- Time Management and Prioritization: Effectively planned and prioritized project tasks to meet deadlines.
+- Debugging and Troubleshooting: Identified and resolved technical issues efficiently during website development.
+- Teamwork and Cooperation: Collaborated with stakeholders and worked cohesively within a team environment.
+- Adaptability and Problem-solving: Adapted to changes and applied problem-solving skills to overcome challenges.
+- Client Relationship Management: Built positive client relationships and delivered solutions exceeding expectations.
 
 
 ## Tools Used
