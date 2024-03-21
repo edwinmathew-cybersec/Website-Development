@@ -20,7 +20,7 @@ The objective of this project was to design and develop a website from scratch, 
 - 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗪𝗼𝗿𝗱 - A word-processing program that allows the creation of simple and complex documents.
 <br/>
 
-## Walkthrough Video
+## Demonstration Video
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XdZ9Z4bxWdc?modestbranding=1&showinfo=0&fs=0&rel=0;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 <br/>
