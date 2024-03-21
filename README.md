@@ -18,10 +18,12 @@ The objective of this project was to design and develop a website from scratch, 
 - 𝗪𝗼𝗿𝗱𝗽𝗿𝗲𝘀𝘀 - A content management system that allows users to host and build websites. It contains plugin architecture and a template system.
 - 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗘𝘅𝗰𝗲𝗹 - A spreadsheet program to save and analyze numerical data.
 - 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗪𝗼𝗿𝗱 - A word-processing program that allows the creation of simple and complex documents.
+<br/>
 
 ## Walkthrough Video
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XdZ9Z4bxWdc?modestbranding=1&showinfo=0&fs=0&rel=0;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<br/>
 
 ## Document Screenshots
 
