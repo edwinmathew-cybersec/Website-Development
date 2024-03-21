@@ -16,11 +16,44 @@ The objective of this project was to design and develop a website from scratch, 
 ## Tools Used
 
 - 𝗪𝗼𝗿𝗱𝗽𝗿𝗲𝘀𝘀 - A content management system that allows users to host and build websites. It contains plugin architecture and a template system.
+- 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗘𝘅𝗰𝗲𝗹 - A spreadsheet program to save and analyze numerical data.
+- 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗪𝗼𝗿𝗱 - A word-processing program that allows the creation of simple and complex documents.
 
-## Demonstration Video
+## Walkthrough Video
 
+## Document Screenshots
 
+- Homepage of the Website
+  
+<img src="https://i.imgur.com/hYD2Skn.jpeg" width="50%" height="50%">
 
+- WordPress Dashboard
+  
+<img src="https://i.imgur.com/TS4Lrl9.jpeg" width="50%" height="50%">
+
+- List of pages created on the website
+  
+<img src="https://i.imgur.com/3Q9p1vA.jpeg" width="50%" height="50%">
+
+- List of plugins used on the website
+  
+<img src="https://i.imgur.com/2pzTE1B.jpeg" width="50%" height="50%">
+
+- Dashboard of the appointment booking plugin
+  
+<img src="https://i.imgur.com/WZSaFP6.jpeg" width="50%" height="50%">
+
+- Issue log created for the project
+  
+<img src="https://i.imgur.com/jpYeaid.jpeg" width="50%" height="50%">
+
+- Project schedule (Gantt Chart)
+  
+<img src="https://i.imgur.com/dqHnyhK.jpeg" width="50%" height="50%">
+
+- Executive summary from the project closure report
+  
+<img src="https://i.imgur.com/oCXPPzC.jpeg" width="50%" height="50%">
 
 
 
